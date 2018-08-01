@@ -1,2 +1,3 @@
 # upgraded-octo-robot
-guide me through the github
+this is a readme file
+wish I learned python instead of R?
